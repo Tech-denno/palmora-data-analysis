@@ -1,2 +1,14 @@
-# palmora-data-analysis
-The Incubator Hub inspired my journey into the Tech World of Data Analysis.
+# My DSA Final Project
+
+## Project Overview:
+A Capstone Project completed as part of a three-month intensive Data Analysis program, aimed at generating insights to address key questions in the field of Human Resource Analytics in Palmora Group. This part of the project uses Power BI visualization skills to answer the stated questions.
+
+The overarching aim of this project is to identify any instances of gender inequality within Palmora Group and to present actionable recommendations to support informed management decision-making.
+
+### Exploratory Data Analysis (EDA):
+1. Overall Gender Composition in Palmora Group
+
+   
+
+#### Insight:
+The majority of employees in Palmora Group are male, followed by female, with a small portion termed undisclosed.
