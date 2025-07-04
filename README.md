@@ -22,3 +22,16 @@ Kaduna and Abuja have a higher total number of employees relative to Lagos.
 In every region, males outnumber females, indicative of gender disparity that is consistent across geographic locations.
 The "Undisclosed" category though minimal, it is present in all three regions.
 
+1c. Gender Breakdown across Departments
+
+
+
+
+
+
+### Insight:
+Departments like Marketing, Training, Engineering, Business Development, and Human Resources show comparatively better gender balance. While departments such as Accounting, Sales, Support, Project Management, and Legal appear to be dominated by male.
+The presence of undisclosed gender entries in most departments should be highlighted to improve data completeness and better support HR policy evaluation.
+
+
+
