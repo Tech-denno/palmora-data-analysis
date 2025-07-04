@@ -50,6 +50,8 @@ The overarching aim of this project is to identify any instances of gender inequ
 ### EDA:
 3. Analyse the company’s salary structure, and identify any instance of a gender pay gap. Once gender pay gap is established, identify the department and regions that should be the focus of management.
 
+![Stacked Column Chart (2)](https://github.com/user-attachments/assets/5a71d7ee-b4d5-469d-b82e-b3c619639d8b)
+
 ### Insight:
 - The gender pay gap appears much more noticeable in the Services, Human Resources, and Marketing departments.
 - Within these departments, the regions of Abuja and Kaduna seem to contribute most significantly to this disparity, as the male average salaries in these regions within these departments are on average considerably higher than those for females.
