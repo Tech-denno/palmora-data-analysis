@@ -85,8 +85,7 @@ The overarching aim of this project is to identify any instances of gender inequ
 
 5c. Total amount to be paid out per region and company-wide
 
-
-
+![Clustered Column Chart (5)](https://github.com/user-attachments/assets/553768c4-6b69-4e27-974a-916443151063)
 
 
 
