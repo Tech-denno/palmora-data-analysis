@@ -64,10 +64,11 @@ The overarching aim of this project is to identify any instances of gender inequ
 ### Analysis:
 - The average male and average female salaries above show that Palmora Group fall short of this 90,000 Dollars minimum salary threshold, since the average male and average female salaries in the figure above are 75,000 Euros and 72,000 Euros respectively.
    
-4b. The pay distribution of employees grouped by a salary band of $10,000
+4b. The pay distribution and gender composition of employees grouped by a salary band of $10,000
 
 ![Clustered Column Chart (3)](https://github.com/user-attachments/assets/b321dc80-bb02-477a-9711-66ec65b9c6f9)
 
+4c. The pay distribution of employees grouped by a salary band of $10,000 and the attendant regions
 
 
 
