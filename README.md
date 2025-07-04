@@ -36,14 +36,23 @@ The overarching aim of this project is to identify any instances of gender inequ
 - There is no region or department with female majority, hinting at a systemic issue rather than isolated cases.
 
 ### EDA:
-2. Show insights on ratings that are based on gender
+2. Ratings that are based on gender
    
 ![Clustered Column Chart (2)](https://github.com/user-attachments/assets/842ff177-d45c-4b06-b5da-a4393cafe32f)
-
-
 
 ### Insight:
 - Among all available options (e.g., Poor, Average, Good, Very Good, Very Poor and Not Rated), "Average" and "Good" received the highest number of responses. This implies that most respondents do not feel strongly one way or the other about gender equality in Palmora Group.
 - In addition, a notable portion of these "Average" ratings came from male respondents.
+
+### Analysis:
+ - Targeted communication or training of employees may be required to raise awareness and improve perceptions.
+
+### EDA:
+3. Analyse the company’s salary structure, and identify any instance of a gender pay gap. Once gender pay gap is established, identify the department and regions that should be the focus of management.
+
+### Insight:
+- The gender pay gap appears much more noticeable in the Services, Human Resources, and Marketing departments.
+- Within these departments, the regions of Abuja and Kaduna seem to contribute most significantly to this disparity, as the male average salaries in these regions within these departments are on average considerably higher than those for females.
+   
    
 
