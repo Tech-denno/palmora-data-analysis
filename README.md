@@ -37,10 +37,8 @@ The overarching aim of this project is to identify any instances of gender inequ
 
 ### EDA:
 2. Show insights on ratings that are based on gender
-
-
-
-
+   
+![Clustered Column Chart (2)](https://github.com/user-attachments/assets/842ff177-d45c-4b06-b5da-a4393cafe32f)
 
 
 
