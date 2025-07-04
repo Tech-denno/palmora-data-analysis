@@ -11,24 +11,29 @@ The overarching aim of this project is to identify any instances of gender inequ
 ![Pie Chart](https://github.com/user-attachments/assets/671dbb85-b59e-461a-b3cd-a853332c50c2)
 
 #### Insight:
-The majority of employees in Palmora Group are male, followed by female, with a small portion termed undisclosed.
+- The majority of employees in Palmora Group are male, followed by female, with a small portion termed undisclosed.
 
 1b. Gender Distribution by Region
 
 ![Clustered Column Chart](https://github.com/user-attachments/assets/518e8ec4-aaac-4d52-a9f3-6c21bf19354e)
 
 ### Insight:
-Kaduna and Abuja have a higher total number of employees relative to Lagos.
-In every region, males outnumber females, indicative of gender disparity that is consistent across geographic locations.
-The "Undisclosed" category though minimal, it is present in all three regions.
+- Kaduna and Abuja have a higher total number of employees relative to Lagos.
+- In every region, males outnumber females, indicative of gender disparity that is consistent across geographic locations.
+- The "Undisclosed" category though minimal, it is present in all three regions.
 
 1c. Gender Breakdown across Departments
 
 ![Stacked Column Chart](https://github.com/user-attachments/assets/3e97ba91-f0c2-4793-909e-fd8af94b40d4)
 
 ### Insight:
-Departments like Marketing, Training, Engineering, Business Development, and Human Resources show comparatively better gender balance. While departments such as Accounting, Sales, Support, Project Management, and Legal appear to be dominated by male.
-The presence of undisclosed gender entries in most departments should be highlighted to improve data completeness and better support HR policy evaluation.
+- Departments like Marketing, Training, Engineering, Business Development, and Human Resources show comparatively better gender balance. While departments such as Accounting, Sales, Support, Project Management, and Legal appear to be dominated by male.
+- The presence of undisclosed gender entries in most departments should be highlighted to improve data completeness and better support HR policy evaluation.
+
+### Analysis:
+- Gender imbalance exists both regionally and across departments in Palmora Group.
+- Technical and strategic departments (e.g. Project Management, Legal, and Sales) are notably male-heavy, suggesting potential constraints to female participation or promotion.
+- There is no region or department with female majority, hinting at a systemic issue rather than isolated cases.
 
 
 
