@@ -57,6 +57,18 @@ The overarching aim of this project is to identify any instances of gender inequ
 ### Insight:
 - The gender pay gap appears much more noticeable in the Services, Human Resources, and Marketing departments.
 - Within these departments, the regions of Abuja and Kaduna seem to contribute most significantly to this disparity, as the male average salaries in these regions within these departments are on average considerably higher than those for females.
+
+### EDA:
+4a. Does Palmoria Group meet the minimum $90,000 salary requirement?
+
+### Analysis:
+- The average male and average female salaries above show that Palmora Group fall short of this 90,000 Dollars minimum salary threshold, since the average male and average female salaries in the figure above are 75,000 Euros and 72,000 Euros respectively.
    
-   
+4b. The pay distribution of employees grouped by a salary band of $10,000
+
+
+
+
+
+
 
