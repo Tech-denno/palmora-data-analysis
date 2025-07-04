@@ -89,7 +89,6 @@ The overarching aim of this project is to identify any instances of gender inequ
 
 5d. Total amount to be paid out across the company
 
-
-
+![Total Amount](https://github.com/user-attachments/assets/775b4f28-38ce-4942-bfac-51d176b89454)
 
 
