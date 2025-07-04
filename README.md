@@ -48,7 +48,7 @@ The overarching aim of this project is to identify any instances of gender inequ
  - Targeted communication or training of employees may be required to raise awareness and improve perceptions.
 
 ### EDA:
-3. Analyse the company’s salary structure, and identify any instance of a gender pay gap. Once gender pay gap is established, identify the department and regions that should be the focus of management.
+3. Analyse the company’s salary structure, and identify any instance of a gender pay gap (Average Male Salary minus Average Female Salary). Once gender pay gap is established, identify the department and regions that should be the focus of management.
 
 ![Stacked Column Chart (2)](https://github.com/user-attachments/assets/5a71d7ee-b4d5-469d-b82e-b3c619639d8b) 
 
