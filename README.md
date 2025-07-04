@@ -34,6 +34,7 @@ The overarching aim of this project is to identify any instances of gender inequ
 - Gender imbalance exists both regionally and across departments in Palmora Group.
 - Technical and strategic departments (e.g. Project Management, Legal, and Sales) are notably male-heavy, suggesting potential constraints to female participation or promotion.
 - There is no region or department with female majority, hinting at a systemic issue rather than isolated cases.
+  
 
 ### EDA:
 2. Ratings that are based on gender
@@ -46,6 +47,7 @@ The overarching aim of this project is to identify any instances of gender inequ
 
 ### Analysis:
  - Targeted communication or training of employees may be required to raise awareness and improve perceptions.
+   
 
 ### EDA:
 3. Analyse the company’s salary structure, and identify any instance of a gender pay gap (Average Male Salary minus Average Female Salary). Once gender pay gap is established, identify the department and regions that should be the focus of management.
@@ -61,13 +63,25 @@ The overarching aim of this project is to identify any instances of gender inequ
 ### EDA:
 4a. Does Palmoria Group meet the minimum $90,000 salary requirement?
 
+
 ### Analysis:
 - The average male and average female salaries above show that Palmora Group fall short of this 90,000 Dollars minimum salary threshold, since the average male and average female salaries in the figure above are 75,000 Euros and 72,000 Euros respectively.
+  
    
 4b. The pay distribution and gender composition of employees grouped by a salary band of $10,000
 
 ![Clustered Column Chart (3)](https://github.com/user-attachments/assets/b321dc80-bb02-477a-9711-66ec65b9c6f9)
 
+
 4c. The pay distribution of employees grouped by a salary band of $10,000 and the attendant regions
 
-![Clustered Column Chart (4)](https://github.com/user-attachments/assets/cd4a3610-aeb7-436b-b9db-af525003d24d)
+![Clustered Column Chart (4)](https://github.com/user-attachments/assets/cd4a3610-aeb7-436b-b9db-af525003d24d) 
+
+
+### EDA:
+5ab. Calculate the amount to be paid as a bonus to individual employees and the total amount to be paid to individual employees (salary inclusive of bonus)
+
+
+
+
+
