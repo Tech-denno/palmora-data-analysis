@@ -107,4 +107,5 @@ This Case Study 3 uses Power BI visualization skills to answer these questions:
 
 ![Total Amount](https://github.com/user-attachments/assets/775b4f28-38ce-4942-bfac-51d176b89454)
 
-
+### Data Source:
+The dataset Palmora Group emp-data and Palmora Group Bonus Rules used in this project were provided by INCUBATOR HUB. They were supplied in Excel format to support the analysis and address the project related questions.
