@@ -1,7 +1,27 @@
 # My DSA Final Project
 
 ## Project Overview:
-A Capstone Project completed as part of a three-month intensive Data Analysis program, aimed at generating insights to address key questions in the field of Human Resource Analytics in Palmora Group. This part of the project uses Power BI visualization skills to answer the stated questions.
+A Capstone Project completed as part of a three-month intensive Data Analysis program, aimed at generating insights to address key questions in the field of Human Resource Analytics in Palmora Group. This part of the project uses Power BI visualization skills to answer these questions:
+
+- The proportion of each gender in the company. Add regional and departmental dimensions.
+- Perceived gender equality ratings.
+- Examine salary distribution across genders to detect potential pay gap. If a gender pay gap exists, identify the departments and regions most affected for targeted intervention.
+- Grouping employees pay distribution by a band of 10,000 Dollars by gender and region.
+- Calculating bonus amount paid to individual employees.
+- Calculating total amount paid to individual employees.
+- Analysing and calculating total amount paid by region and company-wide.
+
+### Key POWER BI Concepts Used:
+-  Import Data
+-  Extract, Transform, Load (ETL)
+-  Calculated Columns (Salary Band) using Data Analysis Expressions (DAX)
+
+
+
+-  Merge Tables
+-  Data Modelling
+-  Visualization
+
 
 The overarching aim of this project is to identify any instances of gender inequality within Palmora Group and to present actionable recommendations to support informed management decision-making.
 
