@@ -81,7 +81,6 @@ The overarching aim of this project is to identify any instances of gender inequ
 ### EDA:
 5ab. Calculate the amount to be paid as a bonus to individual employees and the total amount to be paid to individual employees (salary inclusive of bonus)
 
-
-
+![Matrix](https://github.com/user-attachments/assets/40cb56c4-573e-4a47-a007-f1aba433db30)
 
 
