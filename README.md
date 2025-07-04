@@ -15,10 +15,7 @@ The majority of employees in Palmora Group are male, followed by female, with a 
 
 1b. Gender Distribution by Region
 
-
-
-
-
+![Clustered Column Chart](https://github.com/user-attachments/assets/518e8ec4-aaac-4d52-a9f3-6c21bf19354e)
 
 ### Insight:
 Kaduna and Abuja have a higher total number of employees relative to Lagos.
