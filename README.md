@@ -19,8 +19,8 @@ A Capstone Project completed as part of a three-month intensive Data Analysis pr
 ![Calculated Column (Salary Bands)](https://github.com/user-attachments/assets/9bd29851-a617-4976-9fe9-52a74f9edd50)
 
 -  Merge Tables. See extract below:
-
-
+-  
+![Merged Table](https://github.com/user-attachments/assets/61df8466-25a7-456a-b837-73950848c278)
 
 
 
