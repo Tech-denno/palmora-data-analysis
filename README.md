@@ -83,4 +83,10 @@ The overarching aim of this project is to identify any instances of gender inequ
 
 ![Matrix](https://github.com/user-attachments/assets/40cb56c4-573e-4a47-a007-f1aba433db30)
 
+5c. Total amount to be paid out per region and company-wide
+
+
+
+
+
 
