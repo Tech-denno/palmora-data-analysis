@@ -35,5 +35,17 @@ The overarching aim of this project is to identify any instances of gender inequ
 - Technical and strategic departments (e.g. Project Management, Legal, and Sales) are notably male-heavy, suggesting potential constraints to female participation or promotion.
 - There is no region or department with female majority, hinting at a systemic issue rather than isolated cases.
 
+### EDA:
+2. Show insights on ratings that are based on gender
 
+
+
+
+
+
+
+### Insight:
+- Among all available options (e.g., Poor, Average, Good, Very Good, Very Poor and Not Rated), "Average" and "Good" received the highest number of responses. This implies that most respondents do not feel strongly one way or the other about gender equality in Palmora Group.
+- In addition, a notable portion of these "Average" ratings came from male respondents.
+   
 
