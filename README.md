@@ -1,7 +1,9 @@
 # My DSA Final Project
 
 ## Project Overview:
-A Capstone Project completed as part of a three-month intensive Data Analysis program, aimed at generating insights to address key questions in the field of Human Resource Analytics in Palmora Group. This part of the project uses Power BI visualization skills to answer these questions:
+A Capstone Project completed as part of a three-month intensive Data Analysis program, aimed at generating insights to address key questions in the field of Human Resource Analytics in Palmora Group. The overarching aim of this project is to identify any instances of gender inequality within Palmora Group and to present actionable recommendations to support informed management decision-making.
+
+This Case Study 3 uses Power BI visualization skills to answer these questions:
 
 - The proportion of each gender in the company. Add regional and departmental dimensions.
 - Perceived gender equality ratings.
@@ -19,16 +21,11 @@ A Capstone Project completed as part of a three-month intensive Data Analysis pr
 ![Calculated Column (Salary Bands)](https://github.com/user-attachments/assets/9bd29851-a617-4976-9fe9-52a74f9edd50)
 
 -  Merge Tables. See extract below:
--  
+  
 ![Merged Table](https://github.com/user-attachments/assets/61df8466-25a7-456a-b837-73950848c278)
-
-
 
 -  Data Modelling
 -  Visualization
-
-
-The overarching aim of this project is to identify any instances of gender inequality within Palmora Group and to present actionable recommendations to support informed management decision-making.
 
 ### Exploratory Data Analysis (EDA):
 1a. Overall Gender Composition in Palmora Group
