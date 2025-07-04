@@ -52,12 +52,7 @@ The overarching aim of this project is to identify any instances of gender inequ
 
 ![Stacked Column Chart (2)](https://github.com/user-attachments/assets/5a71d7ee-b4d5-469d-b82e-b3c619639d8b) 
 
-
-
-
-
-
-
+![Gender Pay Gap](https://github.com/user-attachments/assets/3fbfd7e5-1b76-44f1-857f-e4aabdf94981)
 
 ### Insight:
 - The gender pay gap appears much more noticeable in the Services, Human Resources, and Marketing departments.
