@@ -15,8 +15,8 @@ A Capstone Project completed as part of a three-month intensive Data Analysis pr
 -  Import Data
 -  Extract, Transform, Load (ETL)
 -  Calculated Columns (Salary Band) using Data Analysis Expressions (DAX)
-
-
+-  
+![Calculated Column (Salary Bands)](https://github.com/user-attachments/assets/9bd29851-a617-4976-9fe9-52a74f9edd50)
 
 -  Merge Tables
 -  Data Modelling
