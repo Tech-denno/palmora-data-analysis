@@ -8,7 +8,9 @@ The overarching aim of this project is to identify any instances of gender inequ
 ### Exploratory Data Analysis (EDA):
 1. Overall Gender Composition in Palmora Group
 
-   
+![Pie Chart](https://github.com/user-attachments/assets/671dbb85-b59e-461a-b3cd-a853332c50c2)
+
+
 
 #### Insight:
 The majority of employees in Palmora Group are male, followed by female, with a small portion termed undisclosed.
