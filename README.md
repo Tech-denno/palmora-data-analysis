@@ -70,5 +70,4 @@ The overarching aim of this project is to identify any instances of gender inequ
 
 4c. The pay distribution of employees grouped by a salary band of $10,000 and the attendant regions
 
-
-
+![Clustered Column Chart (4)](https://github.com/user-attachments/assets/cd4a3610-aeb7-436b-b9db-af525003d24d)
