@@ -24,10 +24,7 @@ The "Undisclosed" category though minimal, it is present in all three regions.
 
 1c. Gender Breakdown across Departments
 
-
-
-
-
+![Stacked Column Chart](https://github.com/user-attachments/assets/3e97ba91-f0c2-4793-909e-fd8af94b40d4)
 
 ### Insight:
 Departments like Marketing, Training, Engineering, Business Development, and Human Resources show comparatively better gender balance. While departments such as Accounting, Sales, Support, Project Management, and Legal appear to be dominated by male.
