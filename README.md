@@ -126,3 +126,22 @@ Based on internal survey ratings (e.g., Poor, Average, Good, Very Good, Very Poo
 
 ![Total Amount](https://github.com/user-attachments/assets/775b4f28-38ce-4942-bfac-51d176b89454)
 
+#### Recommendations:
+Tackle Gender Imbalance:
+- Review hiring practices to promote diversity in male-dominated departments.
+Salary Review & Adjustment:
+- Implement salary audits in departments with wide pay gaps.
+Data Completeness:
+- Eliminate "Undisclosed" gender entries through mandatory HR fields.
+Awareness & Engagement:
+- Launch initiatives to improve employee understanding and satisfaction with gender equality.
+Benchmark Compensation:
+- Align salaries closer to or above the $90,000 threshold to remain competitive.
+
+#### Skills Demonstrated
+- Data Preparation & Cleaning
+- DAX Formulas & Calculated Columns
+- Data Modeling in Power BI
+- Visual Data Storytelling
+- Business Insights Communication
+
